@@ -1,5 +1,5 @@
 # Image-denoising-inpainting
-# as the following evidence shows, this code could help us to easily remove the specified noise
+# As the following evidence shows, this code could help us to easily remove the specified noise
 # Make your job way way easier :/  You are gonna see that the red lines and squiggles known as noise will be removed furthure
 Original image "Plot" Density of State                                                                                                        
 <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/DOS_2.png" width="500"/>                                                           

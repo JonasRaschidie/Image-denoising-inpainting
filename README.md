@@ -13,5 +13,12 @@ Snowflake image with MIT red mark :]    (Orginal)
   <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/Input_s%20crystals.jpg" width="500"/>                  
   Processed snowflake image                                                                                                              
    <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/output_image_grayscale-s%20crystals.png" width="500"/>                                                                                                                                    
-Unprocessed image 1    <img src="" width="500"/>                                                                                                              
- <img src="" width="500"/>  
+Unprocessed image 1                                                                                                                 
+ <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/IMG_20241003_224109.png" width="500"/>       
+Processed image 1                                                                                                                          
+<img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/sharpened_inpainted_image%201.jpg" width="500"/>                                                                                                                          
+Unprocessed image 2                                                                                                                  
+   <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/Input_image.jpg" width="500"/>          
+
+Processed image 2                                                                                                                   
+<img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/sharpened_inpainted_image.jpg" width="500"/> 

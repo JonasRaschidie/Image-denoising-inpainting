@@ -12,4 +12,6 @@ Processed fluorescent cell image
 Snowflake image with MIT red mark :]    (Orginal)                                                                                         
   <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/Input_s%20crystals.jpg" width="500"/>                  
   Processed snowflake image                                                                                                              
-   <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/output_image_grayscale-s%20crystals.png" width="500"/>  
+   <img src="https://github.com/JonasRaschidie/Image-denoising-inpainting/blob/main/output_image_grayscale-s%20crystals.png" width="500"/>                                                                                                                                    
+Unprocessed image 1    <img src="" width="500"/>                                                                                                              
+ <img src="" width="500"/>  
